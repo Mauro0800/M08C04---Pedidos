@@ -74,6 +74,6 @@ window.onload = async () => {
     });
   
   } catch (error) {
-    
+    console.error;
   }
 };
